@@ -1,7 +1,7 @@
 .logo{
     border-radius: 8px;
     border: 2px solid black;
-    box-shadow: 4px 4px 0px black;
+    box-shadow: 4px 4px 0px #005b5b;
     background-color: aqua;
     width:190px;
 }
