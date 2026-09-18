@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Biểu mẩu</title>
+        <link rel="stylesheet" href="thuoctinh.css">
+    </head>
+    <body>
+        <table align="center" cellpadding="12" width="550px" style="background-color: #82b3ff">
+            <tr>
+                <td>
+                <div class="logo">
+                    <h2>Jackson</h2>
+                    <hr style="border: none; border-top: 2px solid black; margin: 2px 0">
+                    <h2>Electronics</h2>
+                </div>
+                <h1 class="odau1">Registration Form</h1>
+                <p class="odau2">Register your Jackson Electronics product here</p>
+                <form>
+                    <table cellpadding="3" width="100%">
+                        <tr>
+                            <td width="150px"><label>First Name:</label></td>
+                            <td colspan="2">
+                            <input type="text" class="trung">
+                            <label>Last Name:</label>/
+                            <input type="text" class="trung">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><label>Address #1:</label></td>
+                            <td colspan="2"><input type="text" class="dai"></td>
+                        </tr>
+                        <tr>
+                            <td><label>Address #2:</label></td>
+                            <td colspan="2"><input type="text" class="dai"></td>
+                        </tr>
+                        <tr>
+                            <td><label>City:</label></td>
+                            <td colspan="2">
+                                <input type="text" class="trung">
+                                <label style="margin-left: 4px;">State:</label>
+                                <input type="text" class="nho">
+                                <label style="margin-left: 4px;">Zip:</label>
+                                <input type="text" style="width:55px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><label>Country:</label></td>
+                            <td colspan="2"><input type="text" class="dai" value="United States"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="3"><hr></td>
+                        </tr>
+                        <tr>
+                            <td><label>Product:</label></td>
+                            <td colspan="2">
+                                <select name="Product" class="trung">
+                                    <option value="1">ScanMaster</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><label>Date Purchased:</label></td>
+                            <td colspan="2"><input type="text" class="trung"></td>
+                        </tr>
+                        <tr>
+                            <td><label>Serial #:</label></td>
+                            <td colspan="2"><input type="text" class="trung"></td>
+                        </tr>
+                        <tr>
+                            <td valign="top" style="padding-top: 3px;"><label>Used for:</label></td>
+                            <td width="130px">
+                                <input type="radio" id="1" name="User">
+                                <label for="1">Home</label>
+                            </td>
+                            <td>
+                                <input type="radio" id="2" name="User">
+                                <label for="2">Educational Institution</label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>
+                                <input type="radio" id="3" name="User">
+                                <label for="3">Business</label>
+                            </td>
+                            <td>
+                                <input type="radio" id="4" name="User">
+                                <label for="4">Other</label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td colspan="2">
+                                <input type="radio" id="5" name="User">
+                                <label for="5">Government</label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign="top" style="padding-top: 3px">
+                                <label>System(check all that apply):</label>
+                            </td>
+                            <td>
+                                <input type="checkbox" id="01" name="System">
+                                <label for="01">Windows</label>
+                            </td>
+                            <td>
+                                <input type="checkbox" id="02" name="System">
+                                <label for="02">UNIX</label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>
+                                <input type="checkbox" id="03" name="System">
+                                <label for="03">Macintosh</label>
+                            </td>
+                            <td>
+                                <input type="checkbox" id="04" name="System">
+                                <label for="04">Other</label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3"><hr></td>
+                        </tr>
+                        <tr>
+                            <td valign="top"><label>Comments?:</label></td>
+                            <td colspan="2"><textarea></textarea></td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" align="center" style="padding-top: 5px;">
+                                <input type="submit" value="Click to register" class="nut">
+                                <input type="reset" value="Click to cancel" class="nut">
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
