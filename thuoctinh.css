@@ -49,4 +49,5 @@ input[type="radio"]{
 }
 table td:first-child{
     text-align: center;
+    padding-right:10px;
 }
