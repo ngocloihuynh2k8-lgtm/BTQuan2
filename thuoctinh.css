@@ -1,9 +1,10 @@
 .logo{
+    display: inline-block;
     border-radius: 8px;
     border: 1px solid black;
     box-shadow: 4px 4px 0px #555555;
     background-color: aqua;
-    width:2200px;
+    width:220px;
     padding: 0;
 }
 h2{
