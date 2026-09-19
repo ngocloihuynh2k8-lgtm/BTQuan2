@@ -18,7 +18,7 @@ h1{
 }
 .odau2{
     text-align: center;
-    margin-bottom:5px;
+    margin-bottom:0;
 }
 .dai{
     width:200px;
@@ -30,7 +30,7 @@ h1{
     width:32px;
 }
 textarea{
-    width:90%;
+    width:95%;
     height:100px;
     resize:vertical;
 }
