@@ -47,8 +47,6 @@ input[type="radio"]{
     accent-color: green;
     cursor: pointer;
 }
-.luidaudong{
-    table td:first-child{
+.luidaudong td:first-child{
     padding-left: 60px;
-    }
-}    
+}
