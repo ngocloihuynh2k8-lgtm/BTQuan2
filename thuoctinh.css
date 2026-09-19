@@ -43,6 +43,9 @@ hr{
     border-top: 1px solid #666; 
     margin:6px;
 }
+table td:first-child{
+    text-align: center;
+}
 input[type="radio"]{
     accent-color: green;
     cursor: pointer;
