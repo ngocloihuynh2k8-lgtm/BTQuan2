@@ -29,12 +29,11 @@ h1{
     width:32px;
 }
 textarea{
-    width:500px;
-    height:100px;
+    width:400px;
+    height:200px;
     resize:vertical;
 }
 .nut{
-    padding: 2px 8px;
     margin:0 auto;
     cursor: pointer;
     border:1px solid #707070;
