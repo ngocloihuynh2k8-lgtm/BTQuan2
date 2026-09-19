@@ -47,3 +47,6 @@ input[type="radio"]{
     accent-color: green;
     cursor: pointer;
 }
+table td:first-child{
+    text-align: right;
+}
