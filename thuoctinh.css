@@ -4,8 +4,9 @@
     border: 1px solid black;
     box-shadow: 4px 4px 0px #555555;
     background-color: aqua;
-    width:190px;
-    margin:0px;
+    width:2200px;
+    padding: 0;
+    overflow:hidden;
 }
 h2{
     text-align: center;
