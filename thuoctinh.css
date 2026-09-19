@@ -1,4 +1,5 @@
 .logo{
+    display: inline-block;
     border-radius: 8px;
     border: 1px solid black;
     box-shadow: 4px 4px 0px #555555;
@@ -34,7 +35,7 @@ textarea{
 }
 .nut{
     padding: 2px 8px;
-    margin:0;
+    margin:0 4px;
     cursor: pointer;
     border:1px solid #707070;
     border-radius: 2px;
