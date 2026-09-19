@@ -1,12 +1,11 @@
 .logo{
-    display: inline-block;
+    font-flamily:Times New Roman;
     border-radius: 8px;
     border: 1px solid black;
     box-shadow: 4px 4px 0px #555555;
     background-color: aqua;
     width:220px;
-    padding: 0;
-    overflow: hidden;
+    margin:0 auto;
 }
 h2{
     text-align: center;
