@@ -38,10 +38,11 @@ textarea{
     border:1px solid #707070;
     border-radius: 2px;
 }
-input[type="radio"]{
+input[type="radio"],
+input[type="checkbox"]{
     accent-color: green;
     cursor: pointer;
-    margin: 0 1px 0 0;
+    margin: 0 4px 0 0;
     vertical-align: middle;
 }
 .luidaudong td:first-child{
