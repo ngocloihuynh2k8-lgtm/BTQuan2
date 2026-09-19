@@ -1,10 +1,9 @@
 .logo{
-    font-flamily:Times New Roman;
     border-radius: 8px;
     border: 1px solid black;
     box-shadow: 6px 6px 0px #555555;
     background-color: aqua;
-    width:220px;
+    width:300px;
     margin:0 auto;
 }
 h1{
