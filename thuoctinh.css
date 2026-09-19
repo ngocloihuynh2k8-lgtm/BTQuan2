@@ -48,6 +48,5 @@ input[type="radio"]{
     cursor: pointer;
 }
 table td:first-child{
-    text-align: center;
-    padding-right:10px;
+    padding-left: 20px;
 }
