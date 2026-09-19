@@ -29,7 +29,7 @@ h1{
     width:32px;
 }
 textarea{
-    width:100%;
+    width:99%;
     height:100px;
     resize:vertical;
 }
@@ -38,10 +38,6 @@ textarea{
     cursor: pointer;
     border:1px solid #707070;
     border-radius: 2px;
-}
-hr{
-    border-top: 1px solid #666; 
-    margin:6px;
 }
 input[type="radio"]{
     accent-color: green;
