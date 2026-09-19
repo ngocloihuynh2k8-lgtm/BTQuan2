@@ -29,8 +29,8 @@ h1{
     width:32px;
 }
 textarea{
-    width:400px;
-    height:200px;
+    width:100%;
+    height:150px;
     resize:vertical;
 }
 .nut{
