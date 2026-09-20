@@ -41,8 +41,6 @@ textarea{
 input[type="radio"]{
     accent-color: green;
     cursor: pointer;
-    margin-top:0;
-    margin-bottom:0;
 }
 .luidaudong td:first-child{
     padding-left: 70px;
